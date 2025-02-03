@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Andrew-sudo-create
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js and React.js
-- 📫 How to reach me andrewkwebdeveloper@gmail.com
+Hey! Im Andrew, A Student at Stadio, and I am currently studying a Bachelors degree in IT
+
+I code in javascript, SCSS, HTML and I LOVE React.
 
 <!---
 Andrew-sudo-create/Andrew-sudo-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
